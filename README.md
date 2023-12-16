@@ -46,3 +46,7 @@ To set up the application on your local system, follow these steps:
 - `UserProfileFragment Fragment`To learn more about our team members, navigate to the 'About Us' section within the application. Here, you'll find detailed information about each team member.
 ### About US File Detail
 - `MoreFragment Fragment`Explore personalized features by accessing the 'Profile' menu. Here, users can view their profile information which includes personal and car details.
+
+### Server-Side files (Python)
+- mainSLotFinder.py: This Python script serves as the server-side component of our Mobile Project. Its primary function involves detecting parking slots and updating a connected database with the results obtained. If a camera isn't accessible, the provided video file (unity_test.mov) is available for testing purposes. The core functionality revolves around utilizing various yolov8 models designed explicitly for detecting cars within the parking lot. To run the application, execute this code, ensuring the necessary dependencies are installed and the required video source is available for processing.
+- 
