@@ -28,8 +28,7 @@ To set up the application on your local system, follow these steps:
    ```sh
    git clone https://github.com/rumu10/CS528FinalProject-ParkingFinder
 
-2.
-
+2. Reza should talk about installation of server side 
 ## File Summaries
 
 ### Geofencing Files Detail
