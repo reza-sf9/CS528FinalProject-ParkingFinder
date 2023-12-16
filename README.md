@@ -23,11 +23,11 @@ Before running the application, ensure you have the following installed:
 ## Installation
 
 To set up the application on your local system, follow these steps:
-
+### Android (user)
 1. Clone the repository to your local machine:
    ```sh
    git clone https://github.com/rumu10/CS528FinalProject-ParkingFinder
-
+### Python (server)
 2.
 
 ## File Summaries
